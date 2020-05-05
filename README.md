@@ -23,7 +23,7 @@ Start with a conda virtual env
 Use the terminal or an Anaconda Prompt for the following steps:
 
 ''' To create a new environment, use
-    conda create --name conda_env python=3.7
+    $ conda create --name conda_env python=3.7
 '''
 
 ''' To activate this environment, use
