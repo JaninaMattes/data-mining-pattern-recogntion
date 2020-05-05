@@ -55,16 +55,6 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
-
 # Scrapy stuff:
 .scrapy
 
@@ -89,7 +79,7 @@ ipython_config.py
 #   However, in case of collaboration, if having platform-specific dependencies or dependencies
 #   having no cross-platform support, pipenv may install dependencies that don't work, or not
 #   install all needed dependencies.
-#Pipfile.lock
+Pipfile.lock
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
@@ -127,3 +117,29 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VsCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Things specific to this project
+/.anaconda
+/.envs
+/record.txt
+/docs/build
+/examples/movies/movies.db
+*.orig
+CHANGELOG.temp
+.idea
+*.idml
