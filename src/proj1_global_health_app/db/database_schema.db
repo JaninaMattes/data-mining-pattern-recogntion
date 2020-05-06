@@ -1,0 +1,93 @@
+-- Database: postgres_healthapp
+
+-- DROP DATABASE postgres_healthapp;
+
+-- CREATE DATABASE postgres_healthapp
+    WITH
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'German_Germany.1252'
+    LC_CTYPE = 'German_Germany.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+
+
+-- ********* Table_Country ***********
+
+CREATE TABLE IF NOT EXISTS country (
+  id int PRIMARY KEY,
+  code CHAR(3),
+  short_name VARCHAR(25),
+  table_name VARCHAR(25),
+  long_name text
+);
+
+-- ********* Table_Region ***********
+
+CREATE TABLE IF NOT EXISTS region (
+  id int PRIMARY KEY,
+  country int references country(id),
+  name text,
+  alpha_2 CHAR(2),
+  alpha_3 CHAR(3),
+  code int,
+  iso_3166_2 VARCHAR(25),
+  region VARCHAR(25),
+  sub_region text,
+  intermediate_region text
+);
+
+-- ********* Table_Expenditure ***********
+-- expenditure per capita per country
+--
+
+CREATE TABLE IF NOT EXISTS expenditure (
+  id int PRIMARY KEY,
+  country int references country(id),
+  expenditure numeric,
+  year date
+);
+
+-- ********* Table_WorkHours ***********
+-- hours per person engaged / work hours
+--
+
+CREATE TABLE IF NOT EXISTS workhours (
+  id int PRIMARY KEY,
+  country int references country(id),
+  workhours numeric,
+  year date
+);
+
+-- ********* Table_CaloricSupply ***********
+-- Content of the tables: Daily per capita supply of calories
+-- Animal Proteins (kilcal per person per day)
+-- Plant Proteins (kilcal per person per day)
+-- Fat (kilcal per person per day)
+-- Carbohydrates (kilcal per person per day)
+
+CREATE TABLE IF NOT EXISTS caloricsupply (
+  id int PRIMARY KEY,
+  country int references country(id),
+  animal_protein numeric,
+  plant_protein numeric,
+  fat numeric,
+  carbs numeric,
+  year date
+);
+
+-- ********* Table_Calories ***********
+-- hours per person engaged / work hours
+--
+
+CREATE TABLE IF NOT EXISTS calories (
+  id int PRIMARY KEY,
+  country int references country(id),
+  animal_protein numeric,
+  plant_protein numeric,
+  fat numeric,
+  carbs numeric,
+  year date
+);
+
+
