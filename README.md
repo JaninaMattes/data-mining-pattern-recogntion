@@ -1,5 +1,5 @@
 # Course: Data Mining Lab HdM Stuttgart
-The course **Data Mining** at HdM contains a collection of practicable projects,
+The course **Data Mining** at HdM Stuttgart contains a collection of practicable projects,
 implemented with Python standard libraries and Jupyter Notebook.
 
 #### Lab Exercise Instruction Notebooks
@@ -24,16 +24,20 @@ implemented with Python standard libraries and Jupyter Notebook.
 Use the terminal or an Anaconda Prompt for the following steps:
 
 To create a new environment, use
-```$ conda create --name conda_env python=3.7
+```
+$ conda create --name conda_env python=3.7
 ```
 To activate this environment, use
-``` $ conda activate conda_env
+```
+$ conda activate conda_env
 ```
  To deactivate an active environment, use
-```$ conda deactivate
+```
+$ conda deactivate
 ```
 To delete a no longer needed environment, use
-``` $ conda remove -n yourenvname -all
+```
+$ conda remove -n yourenvname -all
 ```
 For further detail you can follow the official Anaconda [documentation].
 
