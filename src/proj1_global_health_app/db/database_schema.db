@@ -49,7 +49,7 @@ CREATE TABLE IF NOT EXISTS expenditure (
 );
 
 -- ********* Table_WorkHours ***********
--- hours per person engaged / work hours
+-- Content of the tables: hours per person engaged / work hours
 --
 
 CREATE TABLE IF NOT EXISTS workhours (
@@ -76,18 +76,55 @@ CREATE TABLE IF NOT EXISTS caloricsupply (
   year date
 );
 
--- ********* Table_Calories ***********
--- hours per person engaged / work hours
+-- ********* Table_Dietary_ ***********
+-- Content of the tables: All values are per person per day
 --
 
-CREATE TABLE IF NOT EXISTS calories (
+CREATE TABLE IF NOT EXISTS dietary (
   id int PRIMARY KEY,
   country int references country(id),
-  animal_protein numeric,
-  plant_protein numeric,
-  fat numeric,
-  carbs numeric,
+  sugar int,
+  fat int,
+  meat int,
+  dairy_eggs int,
+  fruits_veg int,
+  starchy_roots int,
+  pulses int,
+  cereals_grains int,
+  alcohol int,
   year date
 );
 
+-- ********* Table_GDP_ ***********
+-- Content of the tables: All values are gdp per capita
+--
+
+CREATE TABLE IF NOT EXISTS gdp (
+  id int PRIMARY KEY,
+  country int references country(id),
+  gdp_p_capita numeric,
+  year date
+);
+
+-- ********* Table__LifeExpectation ***********
+-- Content of the tables: All values are average values
+--
+
+CREATE TABLE IF NOT EXISTS life_expectation (
+  id int PRIMARY KEY,
+  country int references country(id),
+  life_exp numeric,
+  year date
+);
+
+-- ********* Table__LifeExpectation ***********
+-- Content of the tables: All values are average values
+--
+
+CREATE TABLE IF NOT EXISTS life_expectation (
+  id int PRIMARY KEY,
+  country int references country(id),
+  life_exp numeric,
+  year date
+);
 
