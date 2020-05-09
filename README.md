@@ -15,6 +15,9 @@ implemented with Python standard libraries and Jupyter Notebook.
 5. Face Recognition
 6. Traffic Sign Recognition
 
+#### Directory Layout
+
+
 #### Install necessary packages
 --------------------------
 
