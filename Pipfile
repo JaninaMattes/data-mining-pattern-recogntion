@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pylast = "*"
+
+[requires]
+python_version = "3.7"
+pylast = "3.2.1"
