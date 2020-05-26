@@ -42,6 +42,11 @@ To delete a no longer needed environment, use
 ```
 $ conda remove -n yourenvname -all
 ```
+Increase security by storing API Keys etc. in environment variables.
+To populate these, use
+```
+$ conda activate analytics
+```
 For further detail you can follow the official Anaconda [documentation].
 
 
