@@ -43,9 +43,10 @@ To delete a no longer needed environment, use
 $ conda remove -n yourenvname -all
 ```
 Increase security by storing API Keys etc. in environment variables.
+This can be done by an _.env_ file.
 To populate these, use
 ```
-$ conda activate conda_emv
+$ conda activate conda_env
 ```
 For further detail you can follow the official Anaconda [documentation].
 
