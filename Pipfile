@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 pylast = "*"
+mpg123 = "*"
 
 [requires]
 python_version = "3.7"
-pylast = "3.2.1"
