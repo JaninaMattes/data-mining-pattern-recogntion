@@ -45,7 +45,7 @@ $ conda remove -n yourenvname -all
 Increase security by storing API Keys etc. in environment variables.
 To populate these, use
 ```
-$ conda activate analytics
+$ conda activate conda_emv
 ```
 For further detail you can follow the official Anaconda [documentation].
 
