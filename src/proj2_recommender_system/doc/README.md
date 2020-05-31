@@ -1,4 +1,28 @@
 # Recommender Systems
+______________________
+
+Recommender systems can be broken down in a brought way to three categories:
+1) **Content based systems**
+2) **Collaborative filtering systems**
+3) **Hybrid systems**
+Hybrid systems hereby are a combination of the other two systems.
+
+## Overview Recommender Systems
+_______________________________
+
+#### Content Based Recommender Systems
+- use the features of items to recommend other similar items. This similar features could be amongst solid colored shirts for example _sleeves_, _single color_, _shirt_ etc.
+
+#### Collaborative Filtering Recommender Systems
+- use the actions of users to recommend other items
+- these systems can either be _item based_ or _user based_
+
+###### User Based Collaborative Filtering
+- uses the patterns of users similar to the target customer/user
+- on base of other similar users a product recommendation is made (_"Users similar to you have also purchased xyz"_)
+
+###### Item Based Collaborative Filtering
+- uses the patterns of users who browsed the same item as the target customer/user to recommend a product (_"Users who looked at item x also looked at item yz"_)
 
 #### User (to User) Collaborative Filtering
 ________________________________
