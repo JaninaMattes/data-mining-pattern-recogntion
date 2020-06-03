@@ -145,3 +145,6 @@ vscode/*
 CHANGELOG.temp
 .idea
 *.idml
+
+# Environment Variables
+.env
