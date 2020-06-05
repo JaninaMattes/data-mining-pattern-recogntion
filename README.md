@@ -1,4 +1,4 @@
-# Course: Data Mining Lab HdM Stuttgart
+# Data Mining & Pattern Recognition HdM Stuttgart
 The course **Data Mining** at HdM Stuttgart contains a collection of practicable projects,
 implemented with Python standard libraries and Jupyter Notebook.
 
@@ -41,6 +41,12 @@ $ conda deactivate
 To delete a no longer needed environment, use
 ```
 $ conda remove -n yourenvname -all
+```
+Increase security by storing API Keys etc. in environment variables.
+This can be done by an _.env_ file.
+To populate these, use
+```
+$ conda activate conda_env
 ```
 For further detail you can follow the official Anaconda [documentation].
 
