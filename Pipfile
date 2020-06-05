@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 pylast = "*"
 mpg123 = "*"
-<<<<<<< HEAD
 astroid = "==2.3.3"
 attrs = "==19.3.0"
 autopep8 = "==1.4.4"
@@ -85,8 +84,6 @@ Pillow = "==7.1.2"
 Pygments = "==2.6.1"
 PyYAML = "==5.3.1"
 Send2Trash = "==1.5.0"
-=======
->>>>>>> 7e6dd8281e0bbb11c80fd920d1f65dd5b2a0492a
 
 [requires]
 python_version = "3.7"
