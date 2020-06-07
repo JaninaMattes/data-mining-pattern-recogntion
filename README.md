@@ -1,5 +1,5 @@
 # Data Mining & Pattern Recognition HdM Stuttgart
-The course **Data Mining** at HdM Stuttgart contains a collection of practicable projects,
+The course **Data Mining and Pattern Recognition** at HdM Stuttgart contains a collection of practicable projects,
 implemented with Python standard libraries and Jupyter Notebook.
 
 #### Lab Exercise Instruction Notebooks
