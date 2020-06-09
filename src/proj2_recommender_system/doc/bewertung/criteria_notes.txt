@@ -1,0 +1,10 @@
+Recommender System
+* Vollständigkeit: Vollständig gelöst
+* Wissenschaftlichkeit: Sehr gut diskutiert
+* Qualität der Implementierung: Sehr gut
+* Jupyter Notebook: Dictionaries direkt ausgeben ist manchmal etwas unschön, besser über alle Key-Value Paare gehen und diese mit einer for-Schleife 
+* Vorbereitung: 
+* Kreativität/Eigene Ideen: Schöne Visualisierungen im LastFM Teil + zusätzliche Experimente mit dem öffentlich zugänglichen LastFM
+_____________________________________
+
+gesamte Note: 1,0 
