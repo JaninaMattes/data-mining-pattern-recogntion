@@ -1,0 +1,76 @@
+bestIndividuum  ['amp1mean' 'power1' 'power4' 'amp10kurt' 'power7' 'amp10dkurt'
+ 'amp100std' 'power10' 'power6' 'amp10skew']
+Best mid rank: 1.9
+Population  [ 0 32 35 11 38 15 17 41 37 10]
+Distanz bei 10 Merkmalen:  1.9
+bestIndividuum  ['amp1mean' 'amp10dskew' 'power4' 'amp100dkurt' 'amp100dstd' 'amp1000dstd'
+ 'power10' 'power6' 'amp10dstd' 'amp10skew' 'power7']
+Best mid rank: 1.6
+Population  [ 0 14 35 23 21 29 41 37 13 10 38]
+Distanz bei 11 Merkmalen:  1.6
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+bestIndividuum  ['amp1mean' 'power7' 'amp10kurt' 'amp1dskew' 'power8' 'amp100dstd'
+ 'amp1000std' 'amp10dskew' 'power1' 'amp10dkurt' 'power9' 'amp10skew']
+Best mid rank: 1.5333333333333334
+Population  [ 0 38 11  6 39 21 25 14 32 15 40 10]
+Distanz bei 12 Merkmalen:  1.5333333333333334
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+bestIndividuum  ['amp1mean' 'amp1000std' 'power10' 'amp100std' 'power1' 'power6'
+ 'amp1dskew' 'amp100dstd' 'power9' 'power7' 'amp10skew' 'amp100dkurt'
+ 'power8']
+Best mid rank: 1.4333333333333333
+Population  [ 0 25 41 17 32 37  6 21 40 38 10 23 39]
+Distanz bei 13 Merkmalen:  1.4333333333333333
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+bestIndividuum  ['amp1dskew' 'power7' 'power1' 'amp10dskew' 'power9' 'amp1000std' 'power4'
+ 'amp100dstd' 'amp100kurt' 'amp100std' 'amp10dkurt' 'amp10skew' 'power8'
+ 'power10']
+Best mid rank: 1.5
+Population  [ 6 38 32 14 40 25 35 21 19 17 15 10 39 41]
+Distanz bei 14 Merkmalen:  1.5
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+bestIndividuum  ['amp1mean' 'amp100dstd' 'amp1std' 'amp1dskew' 'amp10mean' 'amp10skew'
+ 'power6' 'power7' 'power8' 'power2' 'power4' 'amp100dkurt' 'power10'
+ 'amp10dskew' 'amp1mean']
+Best mid rank: 1.4833333333333334
+Population  [ 0 21  1  6  8 10 37 38 39 33 35 23 41 14  0]
+Distanz bei 15 Merkmalen:  1.4833333333333334
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+bestIndividuum  ['amp1mean' 'amp1mean' 'amp1mean' 'power4' 'amp10skew' 'power7'
+ 'amp1000std' 'power2' 'power9' 'power1' 'amp1dskew' 'amp10dskew'
+ 'amp100std' 'amp1000dstd' 'amp1000mean' 'power10']
+Best mid rank: 1.5
+Population  [ 0  0  0 35 10 38 25 33 40 32  6 14 17 29 24 41]
+Distanz bei 16 Merkmalen:  1.5
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+bestIndividuum  ['amp1mean' 'amp10kurt' 'amp1000dstd' 'power7' 'amp1dskew' 'power8'
+ 'power4' 'amp10dskew' 'amp100std' 'amp10dstd' 'amp10dkurt' 'power1'
+ 'amp100dstd' 'amp100mean' 'amp10skew' 'power5' 'power9']
+Best mid rank: 1.5833333333333333
+Population  [ 0 11 29 38  6 39 35 14 17 13 15 32 21 16 10 36 40]
+Distanz bei 17 Merkmalen: 
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+ 1.5833333333333333
+bestIndividuum  ['amp1mean' 'amp1mean' 'power7' 'amp10skew' 'power8' 'power10' 'power1'
+ 'power4' 'amp1skew' 'amp100mean' 'amp1000dstd' 'amp100dkurt' 'amp100std'
+ 'amp10std' 'amp1mean' 'amp1mean' 'amp1mean' 'amp1mean']
+Best mid rank: 1.4833333333333334
+Population  [ 0  0 38 10 39 41 32 35  2 16 29 23 17  9  0  0  0  0]
+Distanz bei 18 Merkmalen:  1.4833333333333334
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+bestIndividuum  ['amp1mean' 'amp1mean' 'power10' 'amp1000std' 'power2' 'amp1dskew'
+ 'power1' 'power9' 'amp1skew' 'amp100dstd' 'amp100std' 'amp10dstd'
+ 'power6' 'power8' 'amp10skew' 'amp100dkurt' 'amp1mean' 'amp1mean'
+ 'amp1mean']
+Best mid rank: 1.55
+Population  [ 0  0 41 25 33  6 32 40  2 21 17 13 37 39 10 23  0  0  0]
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+Distanz bei 19 Merkmalen:  1.55
+bestIndividuum  ['amp1mean' 'power1' 'power8' 'amp100dmean' 'amp100std' 'power4' 'power2'
+ 'amp100dstd' 'amp10dstd' 'amp1dskew' 'amp1000dstd' 'amp100mean'
+ 'amp10skew' 'power9' 'amp1skew' 'amp10dskew' 'power10' 'power7' 'power6'
+ 'amp1000std']
+Best mid rank: 1.4833333333333334
+Population  [ 0 32 39 20 17 35 33 21 13  6 29 16 10 40  2 14 41 38 37 25]
+C:\Users\Janina\anaconda3\envs\conda_env\lib\site-packages\ipykernel_launcher.py:193: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+Distanz bei 20 Merkmalen:  1.4833333333333334
