@@ -1,0 +1,5 @@
+Hinweis: Genetischer Algorithmus
+
+* Nicht in Pandas arbeiten, sondern in Numpy, da dies auf C basiert und sehr schnell durchläuft
+   --> bei großen Berechnungen sollte eher Numpy verwendet werden
+   --> Berechnung GA bei 3000 Durchläufen und 100 

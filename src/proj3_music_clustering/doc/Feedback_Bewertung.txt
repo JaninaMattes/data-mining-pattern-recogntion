@@ -1,0 +1,26 @@
+Feedback letzter Versuch
+
+* Vollständigkeit: Alles vorhanden
+* Korrektheit: Guter Code, sauber und korrekte Vorbereitungsfragen
+  --> Frage Python 
+* Wissenschaftlichkeit: Die Beschreibung der Kreuzungsfunktion passt zur anderen Variante bzw. Code
+  --> klare Darstellung wenn man von oben nach unten liest
+* Auswertung der Experimente zur Populationsgröße
+  --> passt nicht zum tatsächlichen Resultat, kleiner zu größer
+* Qualität der Implementierung: Gut
+* Struktur und Form des jyp: Sehr gut und sauber strukturiert
+  --> logisches Denken und Aufbau ging hervor
+* Kreativität: Sehr schöne visualisierung mit den Heatmaps
+  --> pro Musikstück Werte in der Heatmap dargestellt
+* Eigenes Experiment war sehr gut
+
+Note: 1,2
+
+
+Feedback:
+- saubere Implementierung von Numpy ermöglicht, 
+   dass alles gut durchläuft ohne dass etwas mit Parallel Computing / Multithreading gemacht werden müsste
+Paralleles Rechnen
+- dies ist stark von der Anwendung abhängig
+- Multithreading ist möglich, würde aber durch Tensorflow übernommen werden.
+- Deep Learning: GPU mit Tensorflow-gpu werden die Operationen verteilt, die parallelisiert werden können. 
