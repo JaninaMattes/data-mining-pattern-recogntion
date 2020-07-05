@@ -1,0 +1,21 @@
+
+- Fragen zur Vorbereitung waren zu ungenau beantwortet, dies könnte genauer sein
+- Accuracy Werte waren sehr gut - dies lässt zurück schließen, dass der Code korrekt ist
+
+Wissenschaftlichkeit: 
+- Testdaten waren aus der Vorlesung vorgegeben, die Werte wurden nicht ausgegeben, 
+  d.h. die Klassenentscheidung aber nicht die nummerischen Werte um hier Korrektheit nachzuvollziehen
+- Man hätte auch das Verhalten tiefer analysieren können, man schaut sich alles etwas tiefer gehend an und versucht dies besser zu erklären
+  Frage: Warum bleiben hier noch Fehler?
+
+Qualität der Implementierung
+- war ok
+Jupyter Notebook
+- Rechtschreibfehler
+Kreativität
+- Naive Bayes Klassifier Anwendung auf Philosophie Papers
+- Abstracts einzuteilen
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+Note 1,4
