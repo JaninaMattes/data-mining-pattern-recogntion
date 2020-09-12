@@ -7,7 +7,9 @@ implemented with Python standard libraries and Jupyter Notebook.
 
 ###### Main Topics
 1. Global Health Data Analysis
+- Find the actual project under [Global Healthcare Data Analysis](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj1_global_health_app/model/Project1_Global_HealthData_App.ipynb)
 2. Recommender Systeme
+- Find the actual project under [Recommender System](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj2_recommender_system/model/Project2_RecommenderSystem.ipynb)
 3. Music Clustering
 4. Document Classification
 
