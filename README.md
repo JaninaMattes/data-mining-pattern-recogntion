@@ -6,16 +6,19 @@ implemented with Python standard libraries and Jupyter Notebook.
 ----------------------------------
 
 ###### Main Topics
-1. Global Health Data Analysis
+1. **Global Health Data Analysis**
 - Find the actual project under [Global Healthcare Data Analysis](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj1_global_health_app/model/Project1_Global_HealthData_App.ipynb)
-2. Recommender Systeme
+2. **Recommender Systeme**
 - Find the actual project under [Recommender System](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj2_recommender_system/model/Project2_RecommenderSystem.ipynb)
-3. Music Clustering
-4. Document Classification
-
+3. **Music Clustering**
+- Find the actual project under [Music Clustering](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj3_music_clustering/model/proj3_music_clustering.ipynb)
+4. **Document Classification**
+- Find the actual project under [Document Classification](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj4_document_classification/model/VersuchDocumentClassification.ipynb)
 ###### Topic Extraction
-5. Face Recognition
-6. Traffic Sign Recognition
+5. **Face Recognition**
+- Find the actual project under [Face Recognition](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj5_face_recognition/model/VersuchFaceRecognition.ipynb)
+6. **Traffic Sign Recognition**
+- Find the actual project under [Traffic Sign Recognition](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj6_traffic_sign_recognition/model/TrafficSignClassification.ipynb)
 
 #### Directory Layout
 
