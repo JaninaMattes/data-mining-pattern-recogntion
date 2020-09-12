@@ -2,10 +2,10 @@
 The course **Data Mining and Pattern Recognition** at HdM Stuttgart contains a collection of practicable projects,
 implemented with Python standard libraries and Jupyter Notebook.
 
-#### Lab Exercise Instruction Notebooks
+## Lab Exercise Instruction Notebooks
 ----------------------------------
 
-###### Main Topics
+#### Main Topics
 1. **Global Health Data Analysis**
 - Find the actual project under [Global Healthcare Data Analysis](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj1_global_health_app/model/Project1_Global_HealthData_App.ipynb)
 2. **Recommender Systeme**
@@ -14,7 +14,7 @@ implemented with Python standard libraries and Jupyter Notebook.
 - Find the actual project under [Music Clustering](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj3_music_clustering/model/proj3_music_clustering.ipynb)
 4. **Document Classification**
 - Find the actual project under [Document Classification](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj4_document_classification/model/VersuchDocumentClassification.ipynb)
-###### Topic Extraction
+#### Topic Extraction
 5. **Face Recognition**
 - Find the actual project under [Face Recognition](https://github.com/JaninaMattes/datamining_and_patternrec/blob/master/src/proj5_face_recognition/model/VersuchFaceRecognition.ipynb)
 6. **Traffic Sign Recognition**
